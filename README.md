@@ -47,11 +47,9 @@ This project uses machine learning techniques to predict fraudulent transactions
 ## 📈 Results
 - The **XGBoost model** performed well with a **high F1-score** and **recall** after SMOTE.
 - Despite improvements, class imbalance remains a challenge, but the model is better at detecting fraud.
-- ## 📌 How to Use
 
-1. **Clone this repo**:
-   ```bash
-   ## 📌 How to Use
+
+ ## 📌 How to Use
 
 1. **Clone this repo**:
    ```bash
